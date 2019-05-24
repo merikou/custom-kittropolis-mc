@@ -1,0 +1,76 @@
+[13:29:54] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:29:54] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:29:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:29:54] [main/INFO]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[13:29:54] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at E:\Minecraft\Install\runtime\jre-x64
+[13:29:54] [main/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
+[13:29:54] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:29:54] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:29:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:29:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:29:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:29:56] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:29:56] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[13:29:56] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:29:56] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:29:56] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:29:56] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:29:56] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:29:57] [Client thread/INFO]: Setting user: Merikou
+[13:30:01] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:30:02] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[13:30:02] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 993458752 bytes (947 MB) / 1181745152 bytes (1127 MB) up to 7635730432 bytes (7282 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx8192m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.13547 Compatibility Profile Context 25.20.15031.5004' Renderer: 'Radeon RX 580 Series'
+[13:30:02] [Client thread/INFO]: MinecraftForge v14.23.5.2838 Initialized
+[13:30:02] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:30:02] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:30:02] [Client thread/INFO]: Replaced 1227 ore ingredients
+[13:30:03] [Client thread/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
+[13:30:04] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[13:30:04] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[13:30:04] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[13:30:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[13:30:05] [Client thread/INFO]: Processing ObjectHolder annotations
+[13:30:05] [Client thread/INFO]: Found 1169 ObjectHolder annotations
+[13:30:05] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[13:30:05] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[13:30:05] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 147238600 nanos
+[13:30:05] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[13:30:05] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:30:05] [Client thread/INFO]: Applying holder lookups
+[13:30:05] [Client thread/INFO]: Holder lookups applied
+[13:30:05] [Client thread/INFO]: Applying holder lookups
+[13:30:05] [Client thread/INFO]: Holder lookups applied
+[13:30:05] [Client thread/INFO]: Applying holder lookups
+[13:30:05] [Client thread/INFO]: Holder lookups applied
+[13:30:05] [Client thread/INFO]: Applying holder lookups
+[13:30:05] [Client thread/INFO]: Holder lookups applied
+[13:30:05] [Client thread/INFO]: Injecting itemstacks
+[13:30:05] [Client thread/INFO]: Itemstack injection complete
+[13:30:05] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
+[13:30:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:30:06] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[13:30:06] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:30:06] [Thread-5/INFO]: OpenAL initialized.
+[13:30:06] [Sound Library Loader/INFO]: Sound engine started
+[13:30:08] [Client thread/INFO]: Max texture size: 16384
+[13:30:11] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:30:12] [Client thread/INFO]: Applying holder lookups
+[13:30:12] [Client thread/INFO]: Holder lookups applied
+[13:30:12] [Client thread/INFO]: Injecting itemstacks
+[13:30:12] [Client thread/INFO]: Itemstack injection complete
+[13:30:12] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[13:30:12] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[13:30:14] [Client thread/INFO]: Stopping!
+[13:30:14] [Client thread/INFO]: SoundSystem shutting down...
+[13:30:14] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
