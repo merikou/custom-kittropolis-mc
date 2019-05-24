@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-05-24T20:35:22.7773105Z",
+  "lastPlayed": "2019-05-24T20:43:15.9183657Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -160,6 +160,274 @@
       "dateInstalled": "2019-05-24T20:34:53.5181842Z",
       "dateUpdated": "2019-05-24T20:34:53.5221848Z",
       "dateLastUpdateAttempted": "2019-05-24T20:34:53.5221848Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 224641,
+      "gameInstanceID": "cf8dbca2-6581-4799-ac8b-d902751cbf3c",
+      "installedFile": {
+        "id": 2707388,
+        "displayName": "RFTools - 1.12-7.71",
+        "fileName": "rftools-1.12-7.71.jar",
+        "fileDate": "2019-05-05T06:05:44.607Z",
+        "fileLength": 2895608,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2707/388/rftools-1.12-7.71.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 256287,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 233105,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 270789,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 242054941,
+            "type": 0
+          },
+          {
+            "foldername": "mcjty",
+            "fingerprint": 940617714,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2718700781,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4232950739,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1148423064,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 26401080,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "rftools-1.12-7.71.jar"
+      },
+      "dateInstalled": "2019-05-24T20:40:52.5180125Z",
+      "dateUpdated": "2019-05-24T20:40:52.5230011Z",
+      "dateLastUpdateAttempted": "2019-05-24T20:40:52.5230011Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 233105,
+      "gameInstanceID": "cf8dbca2-6581-4799-ac8b-d902751cbf3c",
+      "installedFile": {
+        "id": 2714365,
+        "displayName": "McJtyLib - 1.12-3.5.3",
+        "fileName": "mcjtylib-1.12-3.5.3.jar",
+        "fileDate": "2019-05-22T03:47:09.55Z",
+        "fileLength": 544583,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2714/365/mcjtylib-1.12-3.5.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 270789,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1602393036,
+            "type": 0
+          },
+          {
+            "foldername": "mcjty",
+            "fingerprint": 4138755692,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2401432634,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 847320386,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 859064496,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "mcjtylib-1.12-3.5.3.jar"
+      },
+      "dateInstalled": "2019-05-24T20:40:52.2790009Z",
+      "dateUpdated": "2019-05-24T20:40:52.2810012Z",
+      "dateLastUpdateAttempted": "2019-05-24T20:40:52.2810012Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 240950,
+      "gameInstanceID": "cf8dbca2-6581-4799-ac8b-d902751cbf3c",
+      "installedFile": {
+        "id": 2707390,
+        "displayName": "RFToolsDimensions - 1.12-5.71",
+        "fileName": "rftoolsdim-1.12-5.71.jar",
+        "fileDate": "2019-05-05T06:08:54.357Z",
+        "fileLength": 1682421,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2707/390/rftoolsdim-1.12-5.71.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 270789,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 224641,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 233105,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3327998143,
+            "type": 0
+          },
+          {
+            "foldername": "mcjty",
+            "fingerprint": 506221930,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3932590096,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3698248341,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 874152864,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3460983520,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "rftoolsdim-1.12-5.71.jar"
+      },
+      "dateInstalled": "2019-05-24T20:42:46.6185188Z",
+      "dateUpdated": "2019-05-24T20:42:46.6215268Z",
+      "dateLastUpdateAttempted": "2019-05-24T20:42:46.6215268Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

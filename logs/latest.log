@@ -1,115 +1,105 @@
-[13:35:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:35:24] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:35:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:35:24] [main/INFO]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
-[13:35:24] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at E:\Minecraft\Install\runtime\jre-x64
-[13:35:24] [main/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
-[13:35:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:35:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:35:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:35:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:35:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:35:26] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[13:35:26] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[13:35:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:35:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:35:27] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:35:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:35:27] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[13:35:28] [Client thread/INFO]: Setting user: Merikou
-[13:35:31] [Client thread/INFO]: LWJGL Version: 2.9.4
-[13:35:32] [Client thread/INFO]: -- System Details --
+[13:43:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:43:16] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:43:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:43:16] [main/INFO]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[13:43:16] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at E:\Minecraft\Install\runtime\jre-x64
+[13:43:16] [main/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
+[13:43:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:43:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:43:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:43:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:43:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:43:18] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:43:18] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[13:43:18] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:43:18] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:43:19] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:43:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:43:19] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:43:20] [Client thread/INFO]: Setting user: Merikou
+[13:43:24] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:43:25] [Client thread/INFO]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_51, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 973469432 bytes (928 MB) / 1159725056 bytes (1106 MB) up to 7635730432 bytes (7282 MB)
+	Memory: 953040664 bytes (908 MB) / 1183318016 bytes (1128 MB) up to 7635730432 bytes (7282 MB)
 	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx8192m -Xms256m -XX:PermSize=256m
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.13547 Compatibility Profile Context 25.20.15031.5004' Renderer: 'Radeon RX 580 Series'
-[13:35:32] [Client thread/INFO]: MinecraftForge v14.23.5.2838 Initialized
-[13:35:32] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[13:35:32] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[13:35:32] [Client thread/INFO]: Replaced 1227 ore ingredients
-[13:35:32] [Client thread/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
-[13:35:34] [Client thread/INFO]: Forge Mod Loader has identified 6 mods to load
-[13:35:34] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap] at CLIENT
-[13:35:34] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap] at SERVER
-[13:35:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap
-[13:35:35] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 469567300 nanos
-[13:35:35] [Client thread/INFO]: Processing ObjectHolder annotations
-[13:35:35] [Client thread/INFO]: Found 1169 ObjectHolder annotations
-[13:35:35] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[13:35:35] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[13:35:35] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[13:35:35] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[13:35:35] [Client thread/INFO]: No plugins for JourneyMap API discovered.
-[13:35:35] [Client thread/INFO]: Applying holder lookups
-[13:35:35] [Client thread/INFO]: Holder lookups applied
-[13:35:35] [Client thread/INFO]: Applying holder lookups
-[13:35:35] [Client thread/INFO]: Holder lookups applied
-[13:35:35] [Client thread/INFO]: Applying holder lookups
-[13:35:35] [Client thread/INFO]: Holder lookups applied
-[13:35:35] [Client thread/INFO]: Applying holder lookups
-[13:35:35] [Client thread/INFO]: Holder lookups applied
-[13:35:35] [Client thread/INFO]: Injecting itemstacks
-[13:35:35] [Client thread/INFO]: Itemstack injection complete
-[13:35:35] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
-[13:35:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[13:35:36] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[13:35:36] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[13:35:36] [Thread-5/INFO]: OpenAL initialized.
-[13:35:36] [Sound Library Loader/INFO]: Sound engine started
-[13:35:38] [Client thread/INFO]: Max texture size: 16384
-[13:35:40] [Client thread/INFO]: Created: 512x512 textures-atlas
-[13:35:42] [Client thread/INFO]: Applying holder lookups
-[13:35:42] [Client thread/INFO]: Holder lookups applied
-[13:35:42] [Client thread/INFO]: Created: 256x128 textures-atlas
-[13:35:42] [Client thread/INFO]: JourneyMap log initialized.
-[13:35:42] [Client thread/INFO]: initialize ENTER
-[13:35:42] [Client thread/ERROR]: Couldn't locate icons for flat: E:\Minecraft\Instances\New%20Custom\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\theme\flat
-[13:35:42] [Client thread/ERROR]: Default theme not found in E:\Minecraft\Instances\New Custom\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
-[13:35:42] [Client thread/INFO]: core (FirstLoaded) Setting config file to version "5.5.4": journeymap.core.config
-[13:35:42] [Client thread/INFO]: core (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.core.config
-[13:35:42] [Client thread/INFO]: fullmap (FirstLoaded) Setting config file to version "5.5.4": journeymap.fullmap.config
-[13:35:42] [Client thread/INFO]: fullmap (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.fullmap.config
-[13:35:42] [Client thread/INFO]: minimap (Initialized) Setting config file to version "5.5.4": journeymap.minimap.config
-[13:35:42] [Client thread/INFO]: minimap (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.minimap.config
-[13:35:42] [Client thread/INFO]: minimap2 (FirstLoaded) Setting config file to version "5.5.4": journeymap.minimap2.config
-[13:35:42] [Client thread/INFO]: minimap2 (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.minimap2.config
-[13:35:42] [Client thread/INFO]: topo (FirstLoaded) Setting config file to version "5.5.4": journeymap.topo.config
-[13:35:42] [Client thread/INFO]: topo (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.topo.config
-[13:35:42] [Client thread/INFO]: webmap (FirstLoaded) Setting config file to version "5.5.4": journeymap.webmap.config
-[13:35:42] [Client thread/INFO]: webmap (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.webmap.config
-[13:35:42] [Client thread/INFO]: waypoint (FirstLoaded) Setting config file to version "5.5.4": journeymap.waypoint.config
-[13:35:42] [Client thread/INFO]: waypoint (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.waypoint.config
-[13:35:42] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.4
-[13:35:42] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[13:35:42] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
-[13:35:42] [Client thread/INFO]: Injecting itemstacks
-[13:35:42] [Client thread/INFO]: Itemstack injection complete
-[13:35:43] [Client thread/ERROR]: Couldn't locate icons for Default: E:\Minecraft\Instances\New%20Custom\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\icon\entity
-[13:35:43] [Client thread/INFO]: Added entity icons from journeymap:icon/entity. Success: false
-[13:35:43] [Client thread/ERROR]: Couldn't locate icons for flat: E:\Minecraft\Instances\New%20Custom\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\theme\flat
-[13:35:43] [Client thread/INFO]: Preloaded theme textures: 0
-[13:35:43] [Client thread/INFO]: Starting JEI...
-[13:35:43] [Client thread/INFO]: Registering recipe categories...
-[13:35:43] [Client thread/INFO]: Registering recipe categories took 19.45 ms
-[13:35:43] [Client thread/INFO]: Registering mod plugins...
-[13:35:43] [Client thread/INFO]: Registering mod plugins took 187.6 ms
-[13:35:43] [Client thread/INFO]: Building recipe registry...
-[13:35:43] [Client thread/INFO]: Building recipe registry took 90.44 ms
-[13:35:43] [Client thread/INFO]: Building ingredient list...
-[13:35:43] [Client thread/INFO]: Building ingredient list took 28.04 ms
-[13:35:43] [Client thread/INFO]: Building ingredient filter...
-[13:35:43] [Client thread/INFO]: Building ingredient filter took 123.0 ms
-[13:35:43] [Client thread/INFO]: Building bookmarks...
-[13:35:43] [Client thread/INFO]: Building bookmarks took 4.243 ms
-[13:35:43] [Client thread/INFO]: Building runtime...
-[13:35:43] [JM-VersionCheck-1/ERROR]: Could not check version URL
+[13:43:25] [Client thread/INFO]: MinecraftForge v14.23.5.2838 Initialized
+[13:43:25] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:43:25] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:43:25] [Client thread/INFO]: Replaced 1227 ore ingredients
+[13:43:25] [Client thread/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
+[13:43:27] [Client thread/INFO]: Forge Mod Loader has identified 9 mods to load
+[13:43:27] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, mcjtylib_ng, rftools, rftoolsdim] at CLIENT
+[13:43:27] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, mcjtylib_ng, rftools, rftoolsdim] at SERVER
+[13:43:27] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 126756600 nanos
+[13:43:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:McJtyLib, FMLFileResourcePack:RFTools, FMLFileResourcePack:RFTools Dimensions
+[13:43:27] [Client thread/INFO]: Processing ObjectHolder annotations
+[13:43:27] [Client thread/INFO]: Found 1169 ObjectHolder annotations
+[13:43:27] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[13:43:27] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[13:43:28] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[13:43:28] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:43:28] [Client thread/INFO]: No plugins for JourneyMap API discovered.
+[13:43:28] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
+[13:43:28] [Client thread/INFO]: RFTools Detected Dimensions addon: enabling support
+[13:43:30] [Client thread/INFO]: Could not read 'userbuilder.json', this is not an error!
+[13:43:30] [Client thread/INFO]: OBJLoader: Domain rftools has been added.
+[13:43:30] [Client thread/INFO]: Reading default dimlets.json
+[13:43:30] [Client thread/INFO]: Registering rftools dimension type at id 2
+[13:43:30] [Client thread/INFO]: Applying holder lookups
+[13:43:30] [Client thread/INFO]: Holder lookups applied
+[13:43:30] [Client thread/INFO]: Applying holder lookups
+[13:43:30] [Client thread/INFO]: Holder lookups applied
+[13:43:30] [Client thread/INFO]: Applying holder lookups
+[13:43:30] [Client thread/INFO]: Holder lookups applied
+[13:43:31] [Client thread/INFO]: Applying holder lookups
+[13:43:31] [Client thread/INFO]: Holder lookups applied
+[13:43:31] [Client thread/INFO]: Injecting itemstacks
+[13:43:31] [Client thread/INFO]: Itemstack injection complete
+[13:43:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:43:31] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[13:43:31] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:43:32] [Thread-5/INFO]: OpenAL initialized.
+[13:43:32] [Sound Library Loader/INFO]: Sound engine started
+[13:43:34] [Client thread/INFO]: Max texture size: 16384
+[13:43:36] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:43:38] [Client thread/INFO]: Applying holder lookups
+[13:43:38] [Client thread/INFO]: Holder lookups applied
+[13:43:38] [Client thread/INFO]: Created: 256x128 textures-atlas
+[13:43:38] [Client thread/INFO]: JourneyMap log initialized.
+[13:43:38] [Client thread/INFO]: initialize ENTER
+[13:43:38] [Client thread/ERROR]: Default theme not found in E:\Minecraft\Instances\New Custom\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
+[13:43:39] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[13:43:39] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[13:43:39] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.4
+[13:43:39] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:43:39] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[13:43:40] [Client thread/INFO]: [mcjty.lib.font.TrueTypeFont:<init>:119]: TrueTypeFont loaded: java.awt.Font[family=Ubuntu,name=Ubuntu,style=plain,size=40] - AntiAlias = false
+[13:43:40] [Client thread/INFO]: Received RFTools dimension manager request from mod 'rftools'
+[13:43:40] [Client thread/INFO]: Injecting itemstacks
+[13:43:40] [Client thread/INFO]: Itemstack injection complete
+[13:43:40] [Client thread/ERROR]: Couldn't locate icons for Default: E:\Minecraft\Instances\New%20Custom\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\icon\entity
+[13:43:40] [Client thread/INFO]: Added entity icons from journeymap:icon/entity. Success: false
+[13:43:40] [Client thread/ERROR]: Couldn't locate icons for flat: E:\Minecraft\Instances\New%20Custom\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\theme\flat
+[13:43:40] [Client thread/INFO]: Preloaded theme textures: 0
+[13:43:40] [Client thread/INFO]: Starting JEI...
+[13:43:41] [Client thread/INFO]: Registering recipe categories...
+[13:43:41] [Client thread/INFO]: Registering recipe categories took 22.52 ms
+[13:43:41] [Client thread/INFO]: Registering mod plugins...
+[13:43:41] [Client thread/INFO]: Registering mod plugins took 223.9 ms
+[13:43:41] [Client thread/INFO]: Building recipe registry...
+[13:43:41] [Client thread/INFO]: Building recipe registry took 80.34 ms
+[13:43:41] [Client thread/INFO]: Building ingredient list...
+[13:43:41] [Client thread/INFO]: Building ingredient list took 34.06 ms
+[13:43:41] [Client thread/INFO]: Building ingredient filter...
+[13:43:41] [JM-VersionCheck-1/ERROR]: Could not check version URL
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
@@ -163,10 +153,14 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
 	... 26 more
-[13:35:44] [Client thread/INFO]: Building runtime took 96.69 ms
-[13:35:44] [Client thread/INFO]: Starting JEI took 712.6 ms
-[13:35:44] [Client thread/INFO]: Forge Mod Loader has successfully loaded 6 mods
-[13:35:44] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[13:35:45] [Client thread/INFO]: Stopping!
-[13:35:45] [Client thread/INFO]: SoundSystem shutting down...
-[13:35:46] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:43:41] [Client thread/INFO]: Building ingredient filter took 197.9 ms
+[13:43:41] [Client thread/INFO]: Building bookmarks...
+[13:43:41] [Client thread/INFO]: Building bookmarks took 4.985 ms
+[13:43:41] [Client thread/INFO]: Building runtime...
+[13:43:41] [Client thread/INFO]: Building runtime took 81.74 ms
+[13:43:41] [Client thread/INFO]: Starting JEI took 814.9 ms
+[13:43:41] [Client thread/INFO]: Forge Mod Loader has successfully loaded 9 mods
+[13:43:41] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[13:43:43] [Client thread/INFO]: Stopping!
+[13:43:43] [Client thread/INFO]: SoundSystem shutting down...
+[13:43:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
