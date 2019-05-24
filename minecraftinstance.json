@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-05-24T20:29:51.2137293Z",
+  "lastPlayed": "2019-05-24T20:35:22.7773105Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -39,7 +39,7 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 8192,
-  "guid": "7d78e04a-6f0d-4d48-87a5-0bf9544995c2",
+  "guid": "cf8dbca2-6581-4799-ac8b-d902751cbf3c",
   "gameTypeID": 432,
   "installPath": "E:\\Minecraft\\Instances\\New Custom\\",
   "name": "New Custom",
@@ -66,8 +66,182 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2019-05-24T20:22:49.6106715Z",
-  "installedAddons": [],
+  "installDate": "2019-05-24T20:32:03.8059135Z",
+  "installedAddons": [
+    {
+      "addonID": 32274,
+      "gameInstanceID": "cf8dbca2-6581-4799-ac8b-d902751cbf3c",
+      "installedFile": {
+        "id": 2682920,
+        "displayName": "journeymap-1.12.2-5.5.4",
+        "fileName": "journeymap-1.12.2-5.5.4.jar",
+        "fileDate": "2019-03-03T22:03:21.79Z",
+        "fileLength": 1845450,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2682/920/journeymap-1.12.2-5.5.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 2682921,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 226005,
+            "type": 4,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242519,
+            "type": 1,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1525125471,
+            "type": 0
+          },
+          {
+            "foldername": "journeymap",
+            "fingerprint": 2655744192,
+            "type": 0
+          },
+          {
+            "foldername": "se",
+            "fingerprint": 2546301909,
+            "type": 0
+          },
+          {
+            "foldername": "modinfo",
+            "fingerprint": 1632086940,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1429981559,
+            "type": 0
+          },
+          {
+            "foldername": "ar",
+            "fingerprint": 2590131427,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1252312455,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2298470457,
+            "type": 0
+          },
+          {
+            "foldername": "license.txt",
+            "fingerprint": 2504611497,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1853050331,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "journeymap-1.12.2-5.5.4.jar"
+      },
+      "dateInstalled": "2019-05-24T20:34:53.5181842Z",
+      "dateUpdated": "2019-05-24T20:34:53.5221848Z",
+      "dateLastUpdateAttempted": "2019-05-24T20:34:53.5221848Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "cf8dbca2-6581-4799-ac8b-d902751cbf3c",
+      "installedFile": {
+        "id": 2682936,
+        "displayName": "jei_1.12.2-4.15.0.268.jar",
+        "fileName": "jei_1.12.2-4.15.0.268.jar",
+        "fileDate": "2019-03-03T22:32:47.17Z",
+        "fileLength": 647239,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2682/936/jei_1.12.2-4.15.0.268.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 57471944,
+            "type": 0
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 165539291,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1907260012,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1886998053,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1053776633,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "jei_1.12.2-4.15.0.268.jar"
+      },
+      "dateInstalled": "2019-05-24T20:34:50.8291852Z",
+      "dateUpdated": "2019-05-24T20:34:50.8552058Z",
+      "dateLastUpdateAttempted": "2019-05-24T20:34:50.8552058Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    }
+  ],
   "isMigrated": false,
   "preferenceUploadProfile": false
 }

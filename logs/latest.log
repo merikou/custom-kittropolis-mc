@@ -1,76 +1,172 @@
-[13:29:54] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:29:54] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:29:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:29:54] [main/INFO]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
-[13:29:54] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at E:\Minecraft\Install\runtime\jre-x64
-[13:29:54] [main/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
-[13:29:54] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:29:54] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:29:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:29:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:29:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:29:56] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[13:29:56] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[13:29:56] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:29:56] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:29:56] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:29:56] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:29:56] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[13:29:57] [Client thread/INFO]: Setting user: Merikou
-[13:30:01] [Client thread/INFO]: LWJGL Version: 2.9.4
-[13:30:02] [Client thread/INFO]: Could not load splash.properties, will create a default one
-[13:30:02] [Client thread/INFO]: -- System Details --
+[13:35:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:35:24] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:35:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:35:24] [main/INFO]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[13:35:24] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at E:\Minecraft\Install\runtime\jre-x64
+[13:35:24] [main/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
+[13:35:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:35:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:35:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:35:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:35:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:35:26] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:35:26] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[13:35:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:35:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:35:27] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:35:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:35:27] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:35:28] [Client thread/INFO]: Setting user: Merikou
+[13:35:31] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:35:32] [Client thread/INFO]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_51, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 993458752 bytes (947 MB) / 1181745152 bytes (1127 MB) up to 7635730432 bytes (7282 MB)
+	Memory: 973469432 bytes (928 MB) / 1159725056 bytes (1106 MB) up to 7635730432 bytes (7282 MB)
 	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx8192m -Xms256m -XX:PermSize=256m
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.13547 Compatibility Profile Context 25.20.15031.5004' Renderer: 'Radeon RX 580 Series'
-[13:30:02] [Client thread/INFO]: MinecraftForge v14.23.5.2838 Initialized
-[13:30:02] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[13:30:02] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[13:30:02] [Client thread/INFO]: Replaced 1227 ore ingredients
-[13:30:03] [Client thread/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
-[13:30:04] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
-[13:30:04] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[13:30:04] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[13:30:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[13:30:05] [Client thread/INFO]: Processing ObjectHolder annotations
-[13:30:05] [Client thread/INFO]: Found 1169 ObjectHolder annotations
-[13:30:05] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[13:30:05] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[13:30:05] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 147238600 nanos
-[13:30:05] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[13:30:05] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[13:30:05] [Client thread/INFO]: Applying holder lookups
-[13:30:05] [Client thread/INFO]: Holder lookups applied
-[13:30:05] [Client thread/INFO]: Applying holder lookups
-[13:30:05] [Client thread/INFO]: Holder lookups applied
-[13:30:05] [Client thread/INFO]: Applying holder lookups
-[13:30:05] [Client thread/INFO]: Holder lookups applied
-[13:30:05] [Client thread/INFO]: Applying holder lookups
-[13:30:05] [Client thread/INFO]: Holder lookups applied
-[13:30:05] [Client thread/INFO]: Injecting itemstacks
-[13:30:05] [Client thread/INFO]: Itemstack injection complete
-[13:30:05] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
-[13:30:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[13:30:06] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[13:30:06] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[13:30:06] [Thread-5/INFO]: OpenAL initialized.
-[13:30:06] [Sound Library Loader/INFO]: Sound engine started
-[13:30:08] [Client thread/INFO]: Max texture size: 16384
-[13:30:11] [Client thread/INFO]: Created: 512x512 textures-atlas
-[13:30:12] [Client thread/INFO]: Applying holder lookups
-[13:30:12] [Client thread/INFO]: Holder lookups applied
-[13:30:12] [Client thread/INFO]: Injecting itemstacks
-[13:30:12] [Client thread/INFO]: Itemstack injection complete
-[13:30:12] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
-[13:30:12] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[13:30:14] [Client thread/INFO]: Stopping!
-[13:30:14] [Client thread/INFO]: SoundSystem shutting down...
-[13:30:14] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:35:32] [Client thread/INFO]: MinecraftForge v14.23.5.2838 Initialized
+[13:35:32] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:35:32] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:35:32] [Client thread/INFO]: Replaced 1227 ore ingredients
+[13:35:32] [Client thread/INFO]: Searching E:\Minecraft\Instances\New Custom\mods for mods
+[13:35:34] [Client thread/INFO]: Forge Mod Loader has identified 6 mods to load
+[13:35:34] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap] at CLIENT
+[13:35:34] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap] at SERVER
+[13:35:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap
+[13:35:35] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 469567300 nanos
+[13:35:35] [Client thread/INFO]: Processing ObjectHolder annotations
+[13:35:35] [Client thread/INFO]: Found 1169 ObjectHolder annotations
+[13:35:35] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[13:35:35] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[13:35:35] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[13:35:35] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:35:35] [Client thread/INFO]: No plugins for JourneyMap API discovered.
+[13:35:35] [Client thread/INFO]: Applying holder lookups
+[13:35:35] [Client thread/INFO]: Holder lookups applied
+[13:35:35] [Client thread/INFO]: Applying holder lookups
+[13:35:35] [Client thread/INFO]: Holder lookups applied
+[13:35:35] [Client thread/INFO]: Applying holder lookups
+[13:35:35] [Client thread/INFO]: Holder lookups applied
+[13:35:35] [Client thread/INFO]: Applying holder lookups
+[13:35:35] [Client thread/INFO]: Holder lookups applied
+[13:35:35] [Client thread/INFO]: Injecting itemstacks
+[13:35:35] [Client thread/INFO]: Itemstack injection complete
+[13:35:35] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
+[13:35:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:35:36] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[13:35:36] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:35:36] [Thread-5/INFO]: OpenAL initialized.
+[13:35:36] [Sound Library Loader/INFO]: Sound engine started
+[13:35:38] [Client thread/INFO]: Max texture size: 16384
+[13:35:40] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:35:42] [Client thread/INFO]: Applying holder lookups
+[13:35:42] [Client thread/INFO]: Holder lookups applied
+[13:35:42] [Client thread/INFO]: Created: 256x128 textures-atlas
+[13:35:42] [Client thread/INFO]: JourneyMap log initialized.
+[13:35:42] [Client thread/INFO]: initialize ENTER
+[13:35:42] [Client thread/ERROR]: Couldn't locate icons for flat: E:\Minecraft\Instances\New%20Custom\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\theme\flat
+[13:35:42] [Client thread/ERROR]: Default theme not found in E:\Minecraft\Instances\New Custom\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
+[13:35:42] [Client thread/INFO]: core (FirstLoaded) Setting config file to version "5.5.4": journeymap.core.config
+[13:35:42] [Client thread/INFO]: core (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.core.config
+[13:35:42] [Client thread/INFO]: fullmap (FirstLoaded) Setting config file to version "5.5.4": journeymap.fullmap.config
+[13:35:42] [Client thread/INFO]: fullmap (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.fullmap.config
+[13:35:42] [Client thread/INFO]: minimap (Initialized) Setting config file to version "5.5.4": journeymap.minimap.config
+[13:35:42] [Client thread/INFO]: minimap (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.minimap.config
+[13:35:42] [Client thread/INFO]: minimap2 (FirstLoaded) Setting config file to version "5.5.4": journeymap.minimap2.config
+[13:35:42] [Client thread/INFO]: minimap2 (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.minimap2.config
+[13:35:42] [Client thread/INFO]: topo (FirstLoaded) Setting config file to version "5.5.4": journeymap.topo.config
+[13:35:42] [Client thread/INFO]: topo (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.topo.config
+[13:35:42] [Client thread/INFO]: webmap (FirstLoaded) Setting config file to version "5.5.4": journeymap.webmap.config
+[13:35:42] [Client thread/INFO]: webmap (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.webmap.config
+[13:35:42] [Client thread/INFO]: waypoint (FirstLoaded) Setting config file to version "5.5.4": journeymap.waypoint.config
+[13:35:42] [Client thread/INFO]: waypoint (Valid) Creating config file: E:\Minecraft\Instances\New Custom\journeymap\config\5.5\journeymap.waypoint.config
+[13:35:42] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.4
+[13:35:42] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:35:42] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[13:35:42] [Client thread/INFO]: Injecting itemstacks
+[13:35:42] [Client thread/INFO]: Itemstack injection complete
+[13:35:43] [Client thread/ERROR]: Couldn't locate icons for Default: E:\Minecraft\Instances\New%20Custom\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\icon\entity
+[13:35:43] [Client thread/INFO]: Added entity icons from journeymap:icon/entity. Success: false
+[13:35:43] [Client thread/ERROR]: Couldn't locate icons for flat: E:\Minecraft\Instances\New%20Custom\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\theme\flat
+[13:35:43] [Client thread/INFO]: Preloaded theme textures: 0
+[13:35:43] [Client thread/INFO]: Starting JEI...
+[13:35:43] [Client thread/INFO]: Registering recipe categories...
+[13:35:43] [Client thread/INFO]: Registering recipe categories took 19.45 ms
+[13:35:43] [Client thread/INFO]: Registering mod plugins...
+[13:35:43] [Client thread/INFO]: Registering mod plugins took 187.6 ms
+[13:35:43] [Client thread/INFO]: Building recipe registry...
+[13:35:43] [Client thread/INFO]: Building recipe registry took 90.44 ms
+[13:35:43] [Client thread/INFO]: Building ingredient list...
+[13:35:43] [Client thread/INFO]: Building ingredient list took 28.04 ms
+[13:35:43] [Client thread/INFO]: Building ingredient filter...
+[13:35:43] [Client thread/INFO]: Building ingredient filter took 123.0 ms
+[13:35:43] [Client thread/INFO]: Building bookmarks...
+[13:35:43] [Client thread/INFO]: Building bookmarks took 4.243 ms
+[13:35:43] [Client thread/INFO]: Building runtime...
+[13:35:43] [JM-VersionCheck-1/ERROR]: Could not check version URL
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387) ~[?:1.8.0_51]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:275) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:117) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:131) [VersionCheck$1.class:1.12.2-5.5.4]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 26 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145) ~[?:1.8.0_51]
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131) ~[?:1.8.0_51]
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 26 more
+[13:35:44] [Client thread/INFO]: Building runtime took 96.69 ms
+[13:35:44] [Client thread/INFO]: Starting JEI took 712.6 ms
+[13:35:44] [Client thread/INFO]: Forge Mod Loader has successfully loaded 6 mods
+[13:35:44] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[13:35:45] [Client thread/INFO]: Stopping!
+[13:35:45] [Client thread/INFO]: SoundSystem shutting down...
+[13:35:46] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
