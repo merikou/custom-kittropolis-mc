@@ -1,0 +1,95 @@
+name=Village ecclésiastique
+icon=stained_glass_green_blue
+weight=10
+carriesraid=false
+qualifier=l'église
+qualifier=l'abbaye
+hillQualifier=les-collines
+mountainQualifier=la-montagne
+desertQualifier=le-désert
+forestQualifier=la-fôret
+lavaQualifier=le-volcan
+lakeQualifier=le-lac
+oceanQualifier=l'océan
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+
+//biomes o' plenty
+biome=brushland
+biome=chaparral
+biome=eucalyptus forest
+biome=grassland
+biome=meadow
+biome=orchard
+biome=seasonal forest
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Meadow
+biome=Birch Forested Hills
+biome=Snowy Coniferous Forest
+biome=Lush Hills
+
+pathmaterial=pathdirt
+pathmaterial=pathgravel
+pathmaterial=pathslabs
+
+//starting buildings=
+centre=abbey
+start=lumbermanhut
+start=farm
+start=cattlefarm
+start=grove
+start=inn
+
+player=playersmallfield
+player=playersmallhouse
+player=playerlargefield
+player=playerlargehouse
+player=playerhugefield
+player=playerestate
+player=gifthouse
+
+//to be built in priority
+core=church
+core=market
+core=archives
+core=bakery
+core=carpenterhouse
+core=glassblower
+core=presbytery
+
+//to be built after the core ones
+secondary=cattlefarm
+secondary=quarry
+secondary=lumbermanhut
+secondary=grove
+secondary=weaverhouse
+secondary=watchtower
+
+//never for this type of village
+never=armoury
+never=tavern
+never=alchemyworkshop
+never=fountain
+
+//Selling prices=
+sellingPrice=bookshelves,100
+sellingPrice=parchment_normanvillagers,5
+sellingPrice=parchment_normanbuildings,5
+sellingPrice=parchment_normanitems,5
+sellingPrice=parchment_normanfull,32
+
+//Buying prices=
+buyingPrice=bookshelves,80
+buyingPrice=wool_white,8
+buyingPrice=leather,15
+buyingPrice=normanBroadsword,1/0/10
+buyingPrice=normanPickaxe,10/10
+buyingPrice=normanAxe,10/10
+buyingPrice=normanShovel,10/10
+buyingPrice=normanHoe,10/10

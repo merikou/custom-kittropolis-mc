@@ -1,0 +1,69 @@
+name=Ipqitchuq
+icon=inuitcarving
+weight=10
+
+carriesraid=true
+
+pathmaterial=pathsnow
+
+biome=ice plains
+biome=ice plains spikes
+biome=cold taiga
+biome=cold taiga m
+biome=cold taiga hills
+biome=frozen river
+
+//BoP mod
+
+biome=alps
+biome=boreal forest
+biome=cold desert
+biome=dead forest
+biome=snowy coniferous forest
+biome=snowy forest
+biome=tundra
+biome=glacier
+
+//starting buildings=
+centre=shamanistic
+start=lumberman
+start=lake
+start=grove
+start=animistic
+
+
+//player buildings=
+player=playeriglu
+player=playercampsite
+player=playerlargegrove
+player=playersmallhouse
+player=playermedhouse
+player=playerlargehouse
+
+//to be built in priority
+core=sodder
+core=offering2
+core=foodprephouse
+
+//to be built after the core ones
+secondary=foodpreparer
+secondary=hunter
+secondary=market
+secondary=grove
+secondary=guesthouse
+secondary=carver
+
+never=armoury
+never=shaman
+never=farmw
+never=farmp
+never=tannery
+never=council
+never=offering
+never=armourerhouse
+
+//Selling prices=
+sellingPrice=bread,7
+
+
+//Buying prices=

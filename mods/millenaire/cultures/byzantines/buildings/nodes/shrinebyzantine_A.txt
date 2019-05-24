@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=5
+building.width=5
+building.buildingorientation=3
+building.farfromtag=pathnode,30
+building.icon=byzantineiconmedium
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bomos
+initial.priority=750
+initial.tag=pathnode
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=75
+upgrade1.pathlevel=1
+
+upgrade2.priority=70
+upgrade2.pathlevel=2
+

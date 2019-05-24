@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=15
+building.buildingorientation=0
+building.mindistance=0.6
+building.icon=silk
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Sirotrofia
+initial.priority=1000
+initial.male=silkfarmer_byzantine
+initial.female=silkfarmerwife_byzantine
+initial.prioritymovein=15
+initial.tag=silkwormfarm
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+
+upgrade4.priority=85
+

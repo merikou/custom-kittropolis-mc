@@ -1,0 +1,11 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=7
+building.buildingorientation=3
+building.max=0
+building.icon=wood_pine
+
+//Parameters for initial construction
+initial.nativename=Asiguk Tupiq
+initial.translatedname=name_en,log cabin ruins
+initial.priority=21

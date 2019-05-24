@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=41
+building.width=43
+building.areatoclear=1
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=fortbyzantine_A3
+building.max=0
+building.icon=byzantinemace
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Krebati
+initial.priority=900
+initial.male=soldier_byzantine
+

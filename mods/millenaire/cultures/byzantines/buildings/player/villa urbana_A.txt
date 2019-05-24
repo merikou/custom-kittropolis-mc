@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=32
+building.width=16
+building.buildingorientation=2
+building.max=0
+building.reputation=32768
+building.price=20480
+building.icon=denieror
+
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Astiko Chorio
+initial.priority=1000000
+initial.pathlevel=2
+

@@ -1,0 +1,70 @@
+name=Sanaturuq
+icon=snowbrick
+weight=10
+
+carriesraid=true
+
+pathmaterial=pathsnow
+
+biome=ice plains
+biome=ice plains spikes
+biome=cold taiga
+biome=cold taiga m
+biome=cold taiga hills
+biome=frozen river
+
+//BoP mod
+
+biome=alps
+biome=boreal forest
+biome=cold desert
+biome=dead forest
+biome=snowy coniferous forest
+biome=snowy forest
+biome=tundra
+biome=glacier
+
+//starting buildings=
+centre=tannery
+start=lumberman
+start=grove
+start=sodder
+start=lake
+start=foodprephouse
+
+//player buildings=
+player=playeriglu
+player=playercampsite
+player=playerlargegrove
+player=playersmallhouse
+player=playermedhouse
+player=playerlargehouse
+
+//to be built in priority
+core=foodpreparer
+core=animistic
+core=carver
+core=armoury
+core=shaman
+core=market
+core=offering
+core=armourerhouse
+
+//to be built after the core ones
+secondary=grove
+secondary=farmp
+secondary=guesthouse
+
+
+never=hunter
+never=farmw
+never=shamanistic
+never=council
+never=offering1
+
+//Selling prices=
+sellingPrice=bread,7
+
+
+//Buying prices=
+buyingPrice=woodHoe,10

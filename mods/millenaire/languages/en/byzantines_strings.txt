@@ -1,0 +1,64 @@
+culture.byzantines=Byzantine
+culture.fullname=The Byzantines
+
+village.controlled=controlled village
+village.customcontrolled=custom controlled village
+village.emporikos=commercial village
+village.military=fort
+village.ortodox=religious village
+
+villager.architect_byzantine=Architect
+villager.armysmith_byzantine=Armorer
+villager.artisan_byzantine=Artisan
+villager.artwife_byzantine=Artisan's wife
+villager.baron_byzantine=Baron
+villager.boy_byzantine=Boy
+villager.centurio_byzantine=Centurio
+villager.farmiller_byzantine=Miller
+villager.farmiller_wife_byzantine=Miller's Wife
+villager.fisherman_byzantine=Fisher
+villager.girl_byzantine=Girl
+villager.lumberman_byzantine=Lumberman
+villager.merchant_byzantine=Merchant
+villager.merchant_hindi=Indian trader
+villager.merchant_japanese=Japanese trader
+villager.merchant_mayan=Maya trader
+villager.merchant_norman=Norman trader
+villager.miner_byzantine=Miner
+villager.pastor_byzantine=Pastor
+villager.patriarch_byzantine=Patriarch
+villager.playersoldier_byzantine=Soldier
+villager.richwife_byzantine=Rich woman
+villager.shepherd_byzantine=Shepherd
+villager.shepherd_female_byzantine=Shepherdess
+villager.silkfarmer_byzantine=Silk Weaver
+villager.silkfarmerwife_byzantine=Silk Weaver
+villager.smith_byzantine=Smith
+villager.soldier_byzantine=Soldier
+villager.teenagerFemale=Youth
+villager.teenagerMale=Youth
+villager.wife_byzantine=Wife
+
+villager.merchant_art=Art Merchant
+villager.merchant_food=Food Merchant
+villager.merchant_materials=Stone Merchant
+villager.smuggler_silk=Silk Merchant
+
+villager.keeperBirch_byzantine=Guard
+villager.keeperOak_byzantine=Guard
+villager.keeperPine_byzantine=Guard
+villager.keeperTropical_byzantine=Guard
+villager.keeper_byzantine=Lighthouse Keeper
+villager.loneshepherd_byzantine=Shepherd
+villager.loneshepherdf_byzantine=Shepherdess
+
+shop.armyforge=Tools,arms and armor
+shop.bakery=Bakery
+shop.clothing=Clothes
+shop.fishery=Fish
+shop.forge=Tools
+shop.lonesheep=Wool
+shop.lonetower=Food
+shop.sheepfarm=Lamb,leather and feta
+shop.tavernbyz=Wine
+shop.townhall=Central Store

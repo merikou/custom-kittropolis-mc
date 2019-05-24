@@ -1,0 +1,83 @@
+mayanacropolis_A0=Royal Ball Court
+mayanalter_A0=Sacrificial Alter
+mayanarmyforge_A0=Hunter's Forge
+mayanbakery_A0=Bakery
+mayanballcourt_A0=Ball Court
+mayancacaofarm_A0=Cocoa Plantation
+mayancacaofarm_B0=Cocoa Plantation
+mayancalendar_A0=Sun Calendar
+mayancave_A0=Cave
+mayancistern_A0=Cistern
+mayancornfarm_A0=Corn Farm
+mayancornfarm_B0=Corn Farm
+mayancornfarm_C0=Corn Farm
+mayancrafter_A0=Crafter
+mayangrove_A0=Grove
+mayanguard_A0=Guardian's House
+mayanhouse_A0=Maya Home
+mayanhouse_B0=Maya Home
+mayanhouse_C0=Maya House
+mayanhouse_D0=Maya House
+mayaninn_A0=Inn
+mayanlargepeasanthouse2_A0=Lower Home
+mayanlargepeasanthouse2_A_secondary_A0=Top House
+mayanlargepeasanthouse_A0=Very Big Home
+mayanlargepeasanthouse_A_secondary_A0=Very Big House
+mayanlibrary_A0=Library
+mayanlumber_A0=Axeman's House
+mayanmarket_A0=Market
+mayanmining_A0=Stone Mine
+mayanobservatory_A0=Observatory
+mayanobsidiancrafter_A0=Obsidian Workshop
+mayanplayerestate_A0=Big Pyramid
+mayanplayerlargehouse_A0=Great Pyramid
+mayanpyramid_A0=Pyramid
+mayansculptorhouse_A0=Carver's House
+mayanshamangrounds_A0=Shaman's Grounds
+mayansheepchickenfarm_A0=Chicken Farm
+mayansheepchickenfarm_B0=Chicken Farm
+mayantemple_A0=Temple
+mayanwatchtower_A0=Watch Tower
+
+mayanbigwell_A0=Large Well
+mayanshrine_A0=Shrine
+mayanwell_A0=Well
+
+mayanplayerpyramid_A0=Player's Pyramid
+mayanplayerhugefield_A0=Big Plot
+mayanplayerlargefield_A0=Medium Plot
+mayanplayersmallfield_A0=Small Plot
+mayanplayersmallhouse_A0=Old House
+
+lonemayancave_A0=Maya Cave
+lonemayancornfarm_A0=Lost Maya Corn Farm
+lonemayanfarm_A0=Maya Solitary Farm
+lonemayanmining_A0=Lost Stone Mine
+lonemayanpyramid_A0=Lost Maya Pyramid
+lonemayanruin_A0=Lost Maya Home
+lonemayanshaman_A0=Shaman's Grounds
+mayanbandithome_A0=Bandit Home
+mayanbandits_A0=Bandit Outpost
+mayanpyramid_A0=Maya Pyramid
+mayanruinedpyramid_A0=Lost Pyramid
+
+gifthouse_a0=Gift House
+
+questpyramid_A0=Cursed Pyramid
+questpyramid_pit_A0=Cursed Pyramid
+questpyramid_guards_A0=Cursed Pyramid
+questpyramid_jail_A0=Cursed Pyramid
+
+questbarrack_A0=Barrack
+questcamphouse_A0=Barrack
+questguardtower_A0=Guard tower
+
+mayancamp_A0=Maya Camp
+mayancamp_dig_A0=Maya Camp
+mayancamp_innerguard_A0=Maya Camp
+mayancamp_jail_A0=Maya Camp
+mayancamp_outerguard_A0=Maya Camp
+mayancamp_wall_A0=Maya Camp
+
+questcave_A0=Maya Cave
+questcave_door_A0=Maya Cave

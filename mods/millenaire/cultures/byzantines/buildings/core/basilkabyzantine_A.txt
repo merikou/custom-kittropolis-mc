@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=33
+building.width=12
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=purse
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Basilike
+initial.priority=600
+initial.pathlevel=1
+initial.tag=market
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+upgrade1.rebuildpath=true
+
+upgrade2.priority=55
+upgrade2.pathlevel=2
+upgrade2.rebuildpath=false
+
+upgrade3.priority=50
+

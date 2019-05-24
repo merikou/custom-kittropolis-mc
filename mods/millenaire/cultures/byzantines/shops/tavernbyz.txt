@@ -1,0 +1,3 @@
+sells=winefancy,cooked_mutton,feta,souvlaki
+buys=grapes
+deliverto=grapes,winefancy,souvlaki,cooked_mutton,feta

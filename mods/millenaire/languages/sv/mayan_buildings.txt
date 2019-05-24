@@ -1,0 +1,80 @@
+﻿mayanplayerestate_A0=Stor Pyramid
+mayancrafter_A0=Hantverkare
+mayanarmyforge_A0=Jägarens Hus
+mayansculptorhouse_A0=Träsnidarens Hus
+mayanlibrary_A0=Bibliotek
+mayanacropolis_A0=Kunglig Bollplan
+mayanalter_A0=Offer Altare
+mayanhouse_A0=Maya Hem
+mayanhouse_B0=Maya Hem
+mayanhouse_C0=Maya Hem
+mayanhouse_D0=Maya Hem
+mayanlumber_A0=Skogshuggarens hus
+mayanmining_A0=Sten gruva
+mayanguard_A0=Vakt hus
+mayangrove_A0=Skogsdunge
+mayanpyramid_A0=Pyramid
+mayaninn_A0=Värdshus
+mayanlargepeasanthouse_A0=Väldigt stort Hus
+mayanlargepeasanthouse_A_secondary_A0=Väldigt Stort Hus
+mayanlargepeasanthouse2_A0=Lägre Hem
+mayanlargepeasanthouse2_A_secondary_A0=Topp Hus
+mayanbakery_A0=Bageri
+mayanballcourt_A0=Bollplan
+mayanplayerlargehouse_A0=Stor Pyramid
+mayancalendar_A0=Sol Kalender
+mayancave_A0=Grotta
+mayancistern_A0=Tank
+mayancornfarm_A0=Majs Farm
+mayancornfarm_B0=Majs Farm
+mayancornfarm_C0=Majs Farm
+mayanobservatory_A0=Observatorium
+mayansheepchickenfarm_B0=Kyckling Farm
+mayanplayerhugefield_A0=Stor Tomt
+mayanplayerlargefield_A0=Mellan Tomt
+mayanplayersmallfield_A0=Liten Tomt
+mayanplayersmallhouse_A0=Gammalt Hus
+mayanshamangrounds_A0=Shamanens mark
+mayansheepchickenfarm_A0=KycklingFarm
+mayantemple_A0=Tempel
+mayanwatchtower_A0=Vakt Torn
+mayanmarket_A0=Marknad
+mayancacaofarm_A0=Kakao Plantage
+mayancacaofarm_B0=Kakao Plantage
+mayanobsidiancrafter_A0=Obsidian Verkstad
+
+mayanplayerpyramid_A0=Spelarens Pyramid
+
+lonemayancave_A0=Maya Grotta
+lonemayanfarm_A0=Maya Enslig Farm
+lonemayanshaman_A0=Shamanens Mark
+mayanbandits_A0=Bandit Utpost
+mayanruinedpyramid_A0=Pyramid Ruin
+mayanbandithome_A0=Bandit Hem
+lonemayanruin_A0=Maya Hem Ruin
+lonemayancornfarm_A0=Maya Majs Farm ruin
+lonemayanmining_A0=Sten Gruva Ruin
+mayanpyramid_A0=Maya Pyramid
+lonemayanpyramid_A0=Maya Pyramid Ruin
+
+
+gifthouse_a0=Present Hus
+
+questpyramid_A0=Förbannad Pyramid
+questpyramid_pit_A0=Förbannad Pyramid
+questpyramid_guards_A0=Förbannad Pyramid
+questpyramid_jail_A0=Förbannad Pyramid
+
+questguardtower_A0=Vakt Torn
+questcamphouse_A0=Barrack
+questbarrack_A0=Barrack
+
+mayancamp_A0=Maya Läger
+mayancamp_outerguard_A0=Maya Läger
+mayancamp_dig_A0=Maya Läger
+mayancamp_wall_A0=Maya Läger
+mayancamp_jail_A0=Maya Läger
+mayancamp_innerguard_A0=Maya Läger
+
+questcave_door_A0=Maya Grotta
+questcave_A0=Maya Grotta

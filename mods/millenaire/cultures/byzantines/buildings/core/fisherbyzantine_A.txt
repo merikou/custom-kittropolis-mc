@@ -1,0 +1,27 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=18
+building.buildingorientation=2
+building.mindistance=0.6
+building.icon=fishraw
+
+
+//Parameters for initial construction
+initial.startlevel=-5
+initial.nativename=Psaras Spiti
+initial.priority=1000
+initial.male=fisherman_byzantine
+initial.female=wife_byzantine
+initial.prioritymovein=20
+initial.tag=fishingspot
+initial.tag=oven
+initial.shop=fishery
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+

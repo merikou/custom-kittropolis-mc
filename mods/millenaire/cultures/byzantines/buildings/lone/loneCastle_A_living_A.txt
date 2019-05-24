@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=34
+building.width=34
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=loneCastle_A0
+building.icon=bed_red
+//currently unused
+building.travelbook_display=false
+
+//Parameters for initial construction
+initial.startlevel=-2
+

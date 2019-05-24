@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=39
+building.width=28
+building.areatoclear=1
+building.issubbuilding=true
+building.parentbuildingplan=churchbyzantine_A1
+building.max=0
+building.icon=wool_white
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bomos
+initial.priority=500
+initial.tag=praying
+

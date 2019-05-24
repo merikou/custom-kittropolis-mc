@@ -1,0 +1,30 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=19
+building.buildingorientation=2
+building.icon=byzantinemace
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Stratones
+initial.priority=900
+initial.male=soldier_byzantine
+initial.pathlevel=1
+initial.tag=patrol
+
+//Parameters for specific upgrades
+upgrade1.priority=180
+
+upgrade2.priority=170
+upgrade2.rebuildpath=true
+
+upgrade3.priority=160
+upgrade3.subbuilding=barracksbyzantine_A_bed
+upgrade3.pathlevel=2
+upgrade3.rebuildpath=false
+
+upgrade4.priority=75
+
+upgrade5.priority=70
+

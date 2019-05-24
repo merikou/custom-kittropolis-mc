@@ -1,0 +1,2 @@
+sells=wool_white,wool_gray,wool_black,wool_pink,mutton,feta
+buys=winefancy,bread,wheat

@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=5
+building.width=5
+building.buildingorientation=3
+building.max=2
+building.farfromtag=pathnode,30
+building.icon=byzantineiconsmall
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Odikos
+initial.priority=700
+initial.tag=pathnode
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=70
+upgrade1.pathlevel=1
+
+upgrade2.priority=65
+upgrade2.pathlevel=2
+

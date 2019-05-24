@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=34
+building.width=34
+building.buildingorientation=3
+building.icon=stonebrick
+//currently unused
+building.travelbook_display=false
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Monachikos Kastro
+initial.male=keeperoak_byzantine
+initial.subbuilding=loneCastle_A_living
+initial.subbuilding=loneCastle_A_praying
+initial.subbuilding=loneCastle_A_training
+initial.shop=lonetower
+

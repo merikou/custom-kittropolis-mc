@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=22
+building.width=11
+building.mindistance=0.6
+building.icon=grapes
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ampelonas
+initial.priority=1000
+initial.tag=vineyard
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+

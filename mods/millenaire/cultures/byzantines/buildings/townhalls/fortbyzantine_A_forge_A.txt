@@ -1,0 +1,29 @@
+//Parameters for the building as a whole
+building.length=41
+building.width=43
+building.areatoclear=1
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=fortbyzantine_A3
+building.max=0
+building.icon=iron
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chalkeio
+initial.priority=800
+initial.male=armysmith_byzantine
+initial.female=wife_byzantine
+initial.prioritymovein=15
+initial.tag=armoury
+initial.tag=forge
+initial.shop=armyforge
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+

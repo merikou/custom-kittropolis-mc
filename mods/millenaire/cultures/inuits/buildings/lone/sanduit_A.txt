@@ -1,0 +1,13 @@
+building.buildingorientation=3
+building.length=13
+building.width=14
+building.icon=sand
+building.showtownhallsigns=false
+
+initial.nativename=autsituqpuq
+initial.translatedname=name_en,Warm weather Inuit
+initial.male=inuit_sanduithusband
+initial.female=inuit_sanduitwife
+initial.male=inuit_sanduitson
+initial.female=inuit_sanduitdaughter
+initial.startlevel=-1

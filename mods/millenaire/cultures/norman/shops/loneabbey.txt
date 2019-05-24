@@ -1,0 +1,3 @@
+sells=bread,beefraw,bookshelves,dye_lightblue,dye_yellow,dye_red
+
+buys=wood,bone,winebasic,normanShovel

@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=8
+building.buildingorientation=0
+building.max=0
+building.icon=bed_straw
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chani
+initial.priority=600
+initial.tag=inn
+initial.signs=1,0
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+upgrade2.pathlevel=1
+

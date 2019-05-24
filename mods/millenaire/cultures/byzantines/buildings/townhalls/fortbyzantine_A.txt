@@ -1,0 +1,45 @@
+//Parameters for the building as a whole
+building.length=41
+building.width=43
+building.buildingorientation=3
+building.max=0
+building.icon=byzantinemace
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Frourio
+initial.priority=600
+initial.male=centurio_byzantine
+initial.tag=patrol
+initial.tag=leasure
+initial.shop=townhall
+initial.signs=3,1,2,0,5,4,6,8,7
+
+//Parameters for specific upgrades
+upgrade1.rebuildpath=true
+
+upgrade2.priority=580
+
+upgrade3.priority=560
+upgrade3.subbuilding=fortbyzantine_A_bed1
+upgrade3.subbuilding=fortbyzantine_A_bed2
+upgrade3.subbuilding=fortbyzantine_A_bed3
+upgrade3.subbuilding=fortbyzantine_A_forge
+upgrade3.rebuildpath=false
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+
+upgrade6.priority=500
+
+upgrade7.priority=480
+
+upgrade8.priority=460
+
+upgrade9.priority=440
+
+upgrade10.startlevel=-6
+upgrade10.priority=420
+

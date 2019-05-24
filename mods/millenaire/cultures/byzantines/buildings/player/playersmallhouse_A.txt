@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=6
+building.buildingorientation=2
+building.max=0
+building.reputation=4096
+building.price=640
+building.icon=denier
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mikro Spiti
+initial.priority=1000000
+

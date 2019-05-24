@@ -1,0 +1,11 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.icon=snowbrick
+
+//Parameters for initial construction
+initial.nativename=Asiguk Iglu
+initial.translatedname=name_en,snow igloo ruins
+initial.priority=21

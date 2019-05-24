@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=18
+building.width=18
+building.buildingorientation=0
+building.mindistance=0.6
+building.icon=mutton
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Boske Probaton
+initial.priority=1000
+initial.male=shepherd_byzantine
+initial.female=shepherd_female_byzantine
+initial.tag=sheeps
+initial.shop=sheepfarm
+
+//Parameters for specific upgrades
+upgrade1.priority=200
+upgrade1.tag=oven
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+

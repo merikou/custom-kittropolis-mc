@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=5
+building.width=10
+building.icon=iron
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chalkeio
+initial.priority=800
+initial.male=smith_byzantine
+initial.female=wife_byzantine
+initial.prioritymovein=15
+initial.tag=forge
+initial.shop=forge
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+upgrade3.pathlevel=1
+

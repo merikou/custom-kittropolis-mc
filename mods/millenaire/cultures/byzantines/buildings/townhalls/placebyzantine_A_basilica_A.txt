@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=25
+building.width=21
+building.areatoclear=1
+building.issubbuilding=true
+building.parentbuildingplan=placebyzantine_A2
+building.max=0
+building.icon=byzantineiconmedium
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Basilike
+initial.priority=600
+initial.tag=market
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+
+upgrade3.priority=50
+
+upgrade4.priority=45
+

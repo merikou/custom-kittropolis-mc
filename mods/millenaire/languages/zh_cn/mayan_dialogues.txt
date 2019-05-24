@@ -1,0 +1,128 @@
+//Français par xIflot
+//French by xIflot
+//Anglais par Teethdude
+//English by Teethdude
+//Maya by TheyCallMePoncho
+//Maya par TheyCallMePoncho
+
+newchat;key:stone,weigth:10;
+v1;0;Nojoch tuunich antal ts’íib ku bin táanil ti’ junp’éel k’aaba’ tia’al u ye’esik xiib yéetel chéen juntúul wáa junp’éel ma’alobkin wíiklal ka kuxtal. / 石头是世界上存在过的最好的材料。 
+v2;30;¡Kux yaan ma'alobtal bi'bi'ki! ¡Ts'íic tuunich! /  熟了以后它变得更好了。为石头欢呼！ 
+v1;60;¡Haah k'ana'an hóok's! Ich meyah! / 我们需要去采集他们！去工作！ 
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Tin nah k'uh haah ma'alobkin hats'uts yéetel ma'alobkin beet. / 我们的金字塔是世界最美最好的建筑。
+v2;30;Haah u t'aan. Xíimbal uláak' chan kaah. Utia'al letio'ob antal ki'ichpam, ¡Ba'ale' ma' ki'ichkelem he'ebix in tia'al! / 这是真的。我去过别的村庄，他们的建筑也很棒，但是没有我们的优雅！
+v1;60;In tia'al xook utia'al nahil haah hun yéetel ha'as óol.  / 我们的建筑结构是唯一的、原汁原味的。  
+v2;90;Ma' u'uyba nohchil hach. Ma' k'áat kex antal he'ebix Byzantines. / 别过于夸口了。我不希望我们变成自负的拜占庭人那样。
+v1;120;Ah, kux. In ch'a' k'uux. ¿¡Bixi' páahtal yaan hach  u'uyba noh ba'al!? / 哦对，呃……我讨厌他们。为什么有人类能这么自负？
+
+newchat;key:player,weigth:10;
+v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / 我们这里客人并不多。
+v2;30;Kux, chéen lela' $name yéetel uláak' wíiniko'ob saat... / 是啊，现在只有 $name 和其他迷失的人...
+v1;60;T'aan utia'al $name, ¿ma' teech tuukul ka $name il ka'anal yéetel hela'an? / 说起 $name，你没觉得他越来越奇怪和疲劳了吗？
+v2;90;Kux. Leti' p'aax wa'atal. / 确实。他应该休息一下。 
+
+//newchat;key:miner,weigth:9;
+//v1;0;To'on p'aax antal máas áaktun máako'ob. / 我们需要雇佣更多矿工。
+//v2;30;¡Ah kux! Nohoch tuunich yéetel yaan ma'alokin bi'bi'ki ti' kúuch. / Ah yes! The rocks and minerals are the best materials in existance. 
+//v1;60;Kux, haah u t'aan. Kurx yaan k'aana'an máas utia'al to'on, P'aax ya'abtal xook. / 我赞同...但是现在我们村庄里的人手不够，我们必须壮大我们的人口。
+//v2;90;Yéetel ma' ts'aa ich meyah ich mix may paal. / 而且我们不能让孩子工作。他们太年轻了。
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Haah k'iin utia'al nah. / 该清理房子了。 
+v2;30;¡Kurx teech hun k'iin! / 但是你昨天就清理过了！ 
+v1;60;Ma', yaan mix ba'al ka beet te'ela'. / 不管怎样，我没被允许在这里做其他任何事情。
+v2;90;¡Teech huntiich' tak ho'ol! / 你一直在抱怨！ 
+v1;120;Yaáxil tak pool, ¡óot na'at! / 一直抗议我抱怨，不如试着去理解为什么我在抱怨！
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / 啊，我的好朋友 $targetfirstname！最近怎么样？ 
+v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / 你好 $targetfirstname！做点我能做到的，最近生意不大好。 
+v1;60;¿Teech p'aat koonol tuunich ich Hindis? / 你是停止给印度人销售石头了吗？
+v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. / 对。现在独立的日本矿工向他们提供服务了，他们不再需要我了。
+v1;120;Teech ts'a'ah wa ba'ax hach. / 你只需要给他们提供些别的。
+v2;150;¿Teech yaan hun tuukul? / 你有什么点子吗？
+
+newchat;key:monster,weigth:5;
+v1;0;Yaan hach k'aak'as ba'al táankab. / 外面现在有很多怪物。
+v2;30;In antal máako'ob ba'ate'il páahtal kíimsah. / 我很肯定守卫能打赢他们。
+v1;60;In antal sahkil beey hun múuch' lelo'ob paal wáak'al ya'ax taah ich chan kaah. / 我担心的是一群那些会爆炸的绿色生物来袭击我们。
+v2;90;Ma' sahakil. To'on yaan léech tia'al ts'aa yiknal letio'ob. / 不用担心。我们有诱饵对付他们。
+v1;120;Lela' uts, to'on yaan ich $name. Leti' ma' ba'ate'el k'aw. Leti' páahtal áantah to'on.  / 好吧，最坏的情况下我们也有 $name。他很会战斗，能保护我们。
+v2;150;Kin ma' péek óol. Leti' ma' k'aw. / 我也不质疑这一点。他不是很坏。
+
+newchat;key:normands,weigth:6;
+v1;0;¿Teech yaan paakat boon oot'il utia'al Normans? ¡Letio'ob hach saas! / 你看到那些诺曼人的皮肤了吗？他们长得都那么苍白！
+v2;30;¡Kux! In mix bik'in yaan paakat saas máako'ob. Hela'n.  / 哦对！我之前从来没见过这样的颜色。很奇怪。  
+v1;60;In tuukul letio'ob xota'an u k'iin... / 我觉得他们可能被诅咒了...
+v2;90;Ma' yaan ma' na'at. Letio'ob yaan wíinik he'ebix tuláakal to'on. / 别傻了。他们也是人，就和其他所有人一样。
+v1;120;Ma' péek óol yaan káaltalil k'eex beey. In antal chich leio'ob ma' yaan beey. / 不用怀疑，是酒精让他们变成这样的。我很肯定他们不是一直都这个样子。
+v2;150;Wale' teech antal k'aw. / 你也许错了。 
+
+//newchat;key:alchimist,weigth:4;
+//v1;0;Ch'óoch' káax, in il báaxal t'aan wáay. / 在探索森林的时候，我看到了一个有趣的化学家。
+//v2;30;¿Teech' he'ebix leti' léeyli'e'? Leti' yaan su'utsil hela'an. / 你也看到他了？他真的是很怪。
+//v1;60;"¡Yéetel bixi'! Leti' yaan hun ts'íib hela'an xa'ak'. ¿Teech oohel "tseek' baakel muuts'" wa "sa'am utia'al píixan" p'aax a'al? / 我完全同意。他有一个有奇怪东西的列表。你知道什么是“凋零骷髅头颅”或者“灵魂砂”吗？
+//v2;90;Ma'. Kurx ma' yaan hach hets' tuukul. / No. but it's not very reassuring. 
+//v1;120;¡Kurx! To'on tuukul leti' óot beet ich tuunich yum k'iin. / Yeah! We think he's trying to make a Philosopher Stone. 
+//v2;150;Tohol $targetfirstname, beey teech tuukul huum u tsikbalil wáa ba’ax, teech antal hach k'as tuukul kab yaan táax. / 勇敢的 $targetfirstname，如果你相信传言，你就有相信地球是圆的的危险。
+//v1;180;Teech antal wáa ma'alob. / 你也许是对的。
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Kin il ich hela'an he' boox ich bilim. / 我在沙漠里看到过一个奇怪的黑色的蛋。
+v2;30;Ah, ¿ich wa maax? ¿Bixi' haah il? / 真的吗？它看起来什么样？
+v1;60;Yaan noh, yaan wóolis chak puk’e’en. Yaan hach noh. ¡Nohoch! / 它有蓝紫色斑点，而且很大。非常大。
+v2;90;¿Teech uk' Norman máak sen ya'ab wa teech antal p'a'as? / 你是又喝诺曼酒了，还是说你在开玩笑？
+v1;120;Ba'ale'... ¡Haah haahil! / 可是...那是真的！我发誓！
+v2;150;¡Jaja! Teech tuukul teech tuus beey, ¡teech k'aw! / 哈哈！如果你觉得你能这么容易就蒙到我的话，你错了！
+
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;To'on p'aax wa'akum nah hun tu'ux ku meenta'al yéetel ku ko'onol waah. Too'n antal ich meyahil. / 我们应该造一个面包房。它会让我们做上生意。
+v2;30;Haah u t'aan. To'on ma' kukin otoch waah. / 这是真的。我们不能满足于自制面包。
+v1;60;Bin ich t'aan ich halach wíinik. / 让我们去和族长聊聊吧。
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Kin yaan sahakil utia'al suut nohoch máak. / 我害怕变成大人。
+v2;30;¿Ba'ax ten? / 为什么这么说？
+v1;60;Tumen... Yaan hach hach meyahil yéetel ma' báaxah... / 呸，因为...有太多工作要做了，我们也不能再玩了...
+v2;90;Teech il, ¡toop! / 等着瞧，做大人很棒的！
+v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / 不要...我不想我不想我不想！
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;¡Taatáa yéetel na' yaan k'aw! ¡To'on yaan léeyli'e' cho' tin otoch! / 妈妈和爸爸不公平！我们一直都要清理我们自己的房间！ 
+v2;30;¡Kurx! ¡To'on p'aax e'es yéetel k'áat hun kuxtal hach tsikbe’en! / 对啊！我们应该反叛一些，去要求被更好的对待！
+v1;60;¡To'on il! ¡Teech na'! / 让我们战斗吧！集中在母亲身上！
+
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Kin meyah máak teech tia'al kalan in, tumen 48 Deniers tumen k'iin. / 我要雇用你来保护我，每天给你 48 铜币。 
+v2;30;Amm... koonol bahux k'iin teech meyah máak, $targetfirstname. / 呃...这取决于你要雇我多久，$targetfirstname。
+v1;60;6 K'iin. Tin xiibil peek' ma' ka'ans tia'al kalan in kin. / 六天。我的狗不够提供给我足够的保护。
+v2;90;Hun Argentum. Ma' óotsil. / 好吧，一枚银币，不能再少了。
+v1;120;¡Lelo' haah ookol! / 这是明抢！
+v2;150;Ma', $targetfirstname. Kin péek óol tin kuxtal waye' meyahil. / 完全不是，$targetfirstname。 我在这份工作里要冒着生命危险。
+
+newchat;key:recolt,weigth:10;
+v1;0;T'ook yaan pik'taan tun. / 今年的的收成真的很丰富。
+v2;30;Kurx, yéetel tak ho'ol yaan chich pool. / 是的，这个时候抱怨会是很愚蠢的。
+v1;60;¡Wáa! / 确实！
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name haah ich hela'an máako'ob. / $name 是个有些奇怪的人。
+v2;30;Haah hach hela'an ka normans. / 比诺曼人还要奇怪。
+v1;60;¿Kurx utia'al tu'ux taal leti'? / 但是他从哪里来的？
+v2;90;Kin ma' antal, leti' ma' haah il he'ebix uláak' chan kaah. / 我不大确定，他似乎不是从任何一个文化来的。 
+
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;¡Kin k'áat yaan he'ebix taat utia'al noch. / 我长大以后要像我爸一样！
+v2;30;¿Hun sahak? / 一个懦夫？
+v1;60;¿Ba'ax? Ma', Leti' ma' yaan hun sahak. / 什么？不，他不是懦夫。
+
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;¿Kex teech k'áat yaan utia'al noch? / 你长大以后想做什么？
+v2;30;Kin ma' oohel, wale' kanan, wa pan... we'matz wale'.. / 我不知道，没准做个战士，或者矿工...也可能是农民...
+v1;60;Teech yaan yéey hayp'éel k'iin. / 那好，总有一天你必须做出选择。

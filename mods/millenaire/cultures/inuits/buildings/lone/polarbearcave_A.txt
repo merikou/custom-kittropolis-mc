@@ -1,0 +1,11 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=10
+building.buildingorientation=3
+building.max=0
+building.icon=bearmeat_raw
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Nanuk Mitjuktipa
+initial.priority=30

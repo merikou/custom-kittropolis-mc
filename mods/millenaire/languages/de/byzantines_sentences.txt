@@ -1,0 +1,124 @@
+architect_byzantine.construction=Dimioúrgisa tóso períplokes domés. To ktírio eínai pragmatiká i pio ómorfi morfí téchnis./ Ich baue solch aufwendige Strukturen. Bauen ist wirklich die schönste Form der Kunst.
+architect_byzantine.construction=I architektonikí mas eínai anóteri apó óla ta álla ktíria se olókliro ton kósmo. / Unsere Architektur ist allen anderen dieser Welt überlegen.
+architect_byzantine.construction=Aftó to ktírio tha eínai ómorfo! / Dieses Gebäude wird wunderschön!
+
+armysmith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Die byzantinischen Werkzeuge sind die besten der Welt.
+armysmith_byzantine.MakeByzantineMace=Min prosvállete kanénan pou chrisimopoieí ta ópla mou. / Versuche garnicht erst jemanden zu bekämpfen, den ich bewaffnet habe!
+
+artisan_byzantine.greeting=Ae zoae mou einai poly kalyteri apo tae zoae ton allon anthropon edo. / Mein Leben ist viel besser als das anderer Dorfbewohner.
+artisan_byzantine.makePainting=Romanikaes technaes aemas einai ae kalyterae ston kosmo. / Römische Kunst ist die fortschrittlichste der Welt.
+
+keeperBirch_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Wer hätte gedacht, dass hier ein Wächter gebraucht wird...
+keeperBirch_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Es ist so langweilig hier, es passiert niemals etwas ...
+keeperBirch_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Hallo Reisender, wie bist du an diesem abgelegenen Ort gelandet?
+
+keeperOak_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Wer hätte gedacht, dass hier ein Wächter gebraucht wird...
+keeperOak_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Es ist so langweilig hier, es passiert niemals etwas ...
+keeperOak_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Hallo Reisender, wie bist du an diesem abgelegenen Ort gelandet?
+keeperOak_byzantine.greeting=Aftoi oi anthropoi edo, lene eafto tou 'Normans', mou thymizoun ti doxa tis aftokratorias mas. / Die Leute hier nennen sich "Normannen". Sie erinnern mich an unser Reich.
+
+keeperPine_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Wer hätte gedacht, dass hier ein Wächter gebraucht wird...
+keeperPine_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Es ist so langweilig hier, es passiert niemals etwas ...
+keeperPine_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Hallo Reisender, wie bist du an diesem abgelegenen Ort gelandet?
+keeperPine_byzantine.greeting=Afto to kryo einai fovero. Den yparchei amfivolia den boro na vro tous anthropous edo... / Diese Kälte ist schrecklich. Kein Wunder, dass sich hier niemand aufhält.
+
+keeperTropical_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Wer hätte gedacht, dass hier ein Wächter gebraucht wird...
+keeperTropical_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Es ist so langweilig hier, es passiert niemals etwas ...
+keeperTropical_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Hallo Reisender, wie bist du an diesem abgelegenen Ort gelandet?
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den boro na katalavo giati aftoi 'Hindi' zoun se afti ti gi. / Es ist so heiß hier. Ich verstehe nicht, wie die Inder hier leben können.
+keeperTropical_byzantine.greeting=Echete dei pote aftes tis perierges 'Maya' ? Ktirion tous moiazoun san na borouse na katarrefsei kathe defterolepto. / Haben Sie die seltsamen Mayas gesehen? Ihre Gebäude scheinen jede Sekunde zusammenbrechen zu können.
+
+lumberman_byzantine.BringBackResourcesHome=As elpísoume óti aftó tha eínai arketó gia na evdokimísei to chorió! / Hoffentlich reicht das aus, damit das Dorf gedeihen kann!
+lumberman_byzantine.BringBackResourcesHome=Eímai polý epitychiménos xylourgós, i apografí mou eínai gemáti me koútsoura! / Ich bin ein sehr erfolgreicher Holzfäller. Mein Inventar ist voll mit Baumstämmen!
+lumberman_byzantine.BringBackResourcesHome=Férno pollá déntra allá den eínai variá gia kápoio lógo. / Ich trage gerade viele Bäume, doch aus irgendeinem Grund sind sie nicht schwer.
+lumberman_byzantine.BringBackResourcesHome=Aftí ítan mia kalí douleiá. / Diese Arbeit wurde gut erledigt.
+lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfanh me olo to xilo pou efera. / Meine Frau wird stolz sein von all dem Holz das ich mitbringe.
+
+lumberman_byzantine.ChopTrees=Kathe domi tou xylou mas anankes , kai na parei afti einai ae douleia mou! / Alle unsere Gebäude brauchen Holz, und es ist meine Aufgabe, es zu finden!
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / Noch ein Baum gefällt, mehr Holz für das Dorf!
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / Ein weiterer Baum gefällt, mehr Holz für das Dorf!
+lumberman_byzantine.ChopTrees=$name, échete kópsei poté éna déntro prin? / $name, hast du jemals einen Baum gefällt?
+lumberman_byzantine.ChopTrees=Párte to déntro Choppa! / Bekämpft diesen Baum!
+lumberman_byzantine.ChopTrees=Pethaínoun déntro pethaínoun! CHACHACHA! Kaloúpi! Kaloúpi! Kaloúpi! CHA-O, Geia sou, $name! Típota ... paráxeno ... symvaínei edó.! / Stirb Baum, stirb! HAHAHA! Stirb! Stirb! Stirb! Ha- Oh, hallo $name! Nichts.. komisches... passiert hier.
+lumberman_byzantine.ChopTrees=Den thélo na se skotóso, allá prépei na ... Antío déntro! / Ich möchte dich nicht umbringen, doch ich muss... Lebwohl, Baum.
+lumberman_byzantine.ChopTrees=Échete anarotitheí poté giatí ta temachisména déntra ftánoun edó, $name? Eínai polý períergo. Ó, ti ki an káno, pántote epipléoun kai prépei na spáso to déntro pros ta páno lígo sigá, eínai énas tétoios pónos.! / Hast du dich je gewundert warum gefällte Bäume hier schweben, $name? Sehr merkwürdig. Egal was ich tue, immer schweben sie und ich muss die Bäume Stück für Stück nach oben hin auseinander nehmen. So nervig.
+
+lumberman_byzantine.GatherGoods=Geia sou $name! Min to paírnete! / Hey $name! Nimm das nicht!
+lumberman_byzantine.GatherGoods=Ta déntra megálosan kalá aftí ti forá, tósa pollá koútsoura kai fytá. / Die Bäume sind diesmal gut gewachsen. So viele Stämme und Setzlinge 
+lumberman_byzantine.GatherGoods=Elpízo óti to chorió tha chreiasteí óla aftá ta koútsoura. / Ich hoffe das Dorf braucht all diese Baumstäme.
+lumberman_byzantine.GatherGoods=Aftó ítan éna megálo déntro! Tóra to chorió boreí na chrisimopoiísei ta koútsourá tou. / Das war ein großer Baum. Jetzt kann das Dorf seine Stämme nutzen!
+lumberman_byzantine.GatherGoods=Koitáxte óla aftá ta néa kormoús kai ta fytá pou píra apó tin kopí ton déntron! / Sie dir all diese neuen Stämme und Setzlinge an, die ich vom fällen all der Bäume bekam!
+lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Dort ist ein schöner Setzling.
+
+lumberman_byzantine.PlantSaplings=Aftá ta fytá eínai tóso mikrá, merikés forés den boró na pistépso óti tha gínoun tóso megála. / Diese Setzlinge sind so klein manchmal glaube ich nicht, das sie so groß werden.
+lumberman_byzantine.PlantSaplings=Eísai tóso charitoméno mikrófyllo, schedón me afínei na xecháso óti tha se kópso ótan megalóseis. / Du bist so süß kleiner Setzling, das ich fast vergesse, dass ich dich fällen werde sobald du groß bist!
+lumberman_byzantine.PlantSaplings=$name, thélete na fytépsete éna fytó? / $name, möchtest du einen Setzling pflanzen?
+lumberman_byzantine.PlantSaplings=Ta déntra megalónoun tóso grígora edó, se líges méres gyrízoun apó aftó to mikroskopikó déntro méchri na eínai éna gemáto déntro. / Bäume wachsen hier so schnell das sie in wenigen Tagen von einem kleinen Setzling zu einem großen Baum werden.
+lumberman_byzantine.PlantSaplings=I fýtefsi eínai i efkolóteri douleiá, to móno pou prépei na káno eínai na ta topothetíso sto édafos. / Pflanzen ist die einfachste Aufgabe. Alles was isch tun muss, ist sie auf den Boden zu setzen.
+lumberman_byzantine.PlantSaplings=Syntoma tha ginai ena megalo, epivlitiko dentro ! Kai tha to meiosoun.  / Bald wird hier ein prächtiger Baum stehen. Und ich werde ihn fällen.
+
+merchant_art.greeting=Kamía póli ston kósmo den boreí na synkritheí me tin omorfiá kai ti dýnami tis Konstantinoúpolis. / Keine Stadt der Welt ist Vergleichbar mit Konstantinopel.
+merchant_art.greeting=Eímaste oi teleftaíoi alithinoí Romaíoi! / Wir sind die letzten wahren Römer.
+
+miner_byzantine.Mining=I douleiá mou eínai na spáso ta vráchia kai na metatrépso aftá ta vráchia pros epexergasía, aftó eínai. / Meine Arbeit ist Felsen zu zerbrechen und sie zum brennen zu bringen. Sonst nichts.
+miner_byzantine.Mining=To chéri mou ponáei apó ti chrísi aftís tis pikkáx káthe méra. / Mein Arm schmerzt jeden Tag, vom benutzen dieser Spitzhacke.
+miner_byzantine.Mining=Éna blok, dýo blok, tría blok, téssera blok, den teleiónei poté. Akrivós to ídio prágma xaná kai xaná. / Ein Block, zwei Blöcke, drei Blöcke, vier Blöcke, es endet nie. Immer wieder das selbe.
+miner_byzantine.Mining=Éna blok, dýo blok, treis anamonís, eínai aftós o chrysós? Aftó eínai? Vríka to chrysó! CHRYSOS! CHRYSOS! Eímai ploúsios! HAHA-ítan aplá sidírou pou antanaklá se kakó fos. Epistrofí sto exóryxi sidírou kai ánthraka ... / Ein Block, zwei Blöcke, drei-warte, ist das Gold? Ist es? ICH HABE GOLD GEFUNDEN! GOLD! GOLD! Ich bin reich! HAHA-oh, es war nur Eisen das im Licht glänzte. Zurück zum Eisen und Kohle schürfen...
+miner_byzantine.Mining=Ogdónta blok, ogdónta éna blok, októ dýo blok, ogdónta tría blok ... / Achtzig Blöcke, einundachtzig Blöcke, zweiundachtzig Blöcke, dreiundachtzig Blöcke...
+miner_byzantine.Mining=Geia sou! Pós metaféroun tósa pollá blok kai i dikí mou tóso grígora? Chreiázontai óres gia na káno aftó pou káneis se mia méra. / Hey! Wie trägst du soviele Blöcke und schürfst so schnell? Ich brauche einen ganzen Tag für das was du in wenigen Stunden machst!
+miner_byzantine.Mining=*Víchas* *Víchas*, misó na ergázomai me ánthraka. / *Hust* *Hust*, Ich hasse es mit Kohle zu arbeiten.
+miner_byzantine.Mining=Gia na kaneis aythn thn douleia h dynamh kai h antoxh einai aparaithta. Kaneis omws den to katalabainei... / In diesem Geschäft braucht man Kraft und Ausdauer. Aber niemand hier erkennt das...
+miner_byzantine.Mining=Eimai perifanos pou eimai Romaios katoikos kai pou douleyw gia thn aytokratoria , an kai einai dyskolh douleia. / Ich bin stolz ein Römischer Bürger zu sein und für dieses glorreiche Imperium zu arbeiten, auch in diesem harten Geschäft.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Meine Bücher sind unter den besten Manuskripten hier.
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Meine Bücher sind unter den besten Manuskripten hier.
+
+smith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Die byzantinischen Werkzeuge sind die besten der Welt.
+
+villager.greeting=Xaire, $name! / Hallo $name!
+villager.greeting=Omorfi mera, etsi den einai? / Ein wunderschöner Tag, nicht wahr?
+villager.greeting=Tha brochi. Syntoma.  / Es wird bald regnen.
+villager.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli / Keine Stadt der Welt kann mit Konstantinopel verglichen werden.
+villager.greeting=Den eimaste Ellines, eimaste Romaioi. / Wir sind keine Griechen. Wir sind Römer.
+villager.greeting=Eímaste oi mónoi alithinoí Romaíoi. / Wir sind die letzten wahren Römer.
+villager.greeting=Varéli sti dóxa tou politismoú mas katá ti diárkeia tis paramonís sas edó. / Genieße den Glanz unserer Zivilisation solange du hier bist.
+villager.greeting=Kalós ílthate sto chorió mas, $name! / Willkommen in unserem Dorf, $name!
+villager.greeting=Koíta! Ypárchei ónoma $name! / Seht! Da ist $name!
+villager.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / Wir Byzantiner sind die letzten wahren Römer. Sonnend im Ruhm unserer Zivilisation.
+
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Ich glaube ich werde draussen spielen gehen.
+villager.GoPlay=Tha páo na paíxo tóra. / Ich werde jetzt spielen gehen.
+
+villager.childobservevines=Oi enílikes prépei na stamatísoun na chánoun nóstima stafýlia kánontas aftó to apaísio krasí apó aftó! / Erwachsene sollten aufhören die leckern Trauben für diese ekelhasten Wein zu verschwenden!
+villager.childobserveconstruction=Mia méra tha episkefthó tin Konstantinoúpoli kai tha doúme ti moiázoun me ta pragmatiká romaïká ktíria! / Eines Tages werde ich Konstantinopel besuchen und sehen wie echte römische Gebäude aussehen!
+boy_byzantine.childobservesmithing=Ótan megaló, thélo na eímai kimás epísis. Í énas stratiótis. Í énas stratigós! / Wenn ich groß bin will ich auch Schmied werden. Oder Soldat. Oder General!
+girl_byzantine.childobserveproducefood=Eínai kaló pou oi ánthropoi den mageirévoun, tha kápsoun ta pánta. / Es ist gut das Männer nicht kochen. Sie würden alles verbrennen.
+villager.childobserveproducealcohol=Dokímasa éna krasí mia forá, eínai aidiastikó. / Ich habe mal Wein probiert. Der ist eklig.
+
+villager.childeatgrapes=Orkízomai óti aftá ta stafýlia épesan mónoi tous! / Ich schwöre die Trauben sind von allein abgefallen!
+
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / Ich bin müde. Ich gehe nach Hause und gehe schlafen.
+villager.gorest=Mallon oti tha pao gia ypno. / Ich denke ich werde jetzt schlafen gehen.
+villager.BecomeAdult=Telos tha ginei mia romaiki politi! / Ich bin endlich ein römischer Bürger!
+villager.calltoarms=Ae Romaikae Autokratoria dexetai epithesi ! Gia ta opla ! / Das römische Imperium wird angegriffen! Zu den Waffen!
+villager.calltoarms=Oi várvaroi eínai edó! Yperaspísoume to chorió mas me káthe kóstos! / Die Barbaren sind hier! Verteidigt das Dorf mit allen Mitteln!
+villager.makeBread=To psomi einai aedae myrodia kalo. / Das Brot riecht schon gut.
+
+villager.gopray=Prépei na páo na prosefchithó sto Theó. / Ich muss zu Gott beten.
+villager.gopray=Chreiázomai kathodígisi apó to Theó. / Ich brauche göttliche Führung.
+villager.gopray=Óra na prosefchitheíte ston Theó! / Zeit um zu Gott zu beten!
+villager.gopray=O Theós me agapá, tha mou dósei symvoulés. / Gott liebt mich, er gibt mir Rat.
+villager.gopray=Proséfchomai se aftón kathimeriná, chróno gia na to káno xaná! / Ich bete zu ihm jeden Tag. Zeit, es wieder zu tun!
+
+villager.goDrink=Óra na ftiáxete éna frésko romaïkó krasí! / Zeit etwas frischen römischen Wein zu holen!
+villager.goDrink=Chreiázomai éna potó. / Ich brauche etwas zu trinken.
+villager.goDrink=O oínos tha plýnei ta provlímatá mou. / Wein wäscht alle Sorgen weg.
+villager.goDrink=Xérate óti to romaïkó krasí eínai to kalýtero ston kósmo? / Wusstest du das römischer Wein der beste der Welt ist?
+villager.goDrink=Échei perásei polýs kairós apó tóte pou écho éna potó. / Lange her, seid ich etwas getrunken habe.
+
+wife_byzantine.greeting=To kathikon mas einai na elenchei tous andreous aemas. / Unsere Aufgabe ist es, unsere Männer zu kontrollieren.
+wife_byzantine.greeting=Os gynaika sas , den yparchoun polla pou sas epitrepete na edo... / Frauen haben nie das Recht hier etwas zu tun ...
+wife_byzantine.getGoodsHousehold=Ora na noiazontai gia to noikokyrio. / Es ist Zeit, Hausarbeit zu machen.
+wife_byzantine.DeliverGoodsHousehold=Tetoia pragmata opos afto einai ta mona pragmata pou boro na kano edo. / Dies ist das einzige was man mich machen lässt.
+wife_byzantine.GetHouseTHResources=Telos o syzygos mou echei paradothei porous tou, opos tou eipa. / Mein Mann hat endlich seine Waren geliefert, wie ich ihm befohlen habe.
+wife_byzantine.cooking=Ae kouzina tou einai pragmatika diaskedastiko. / Kochen ist wirklich fantastisch.

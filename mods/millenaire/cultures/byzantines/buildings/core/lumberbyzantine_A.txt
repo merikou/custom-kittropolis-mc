@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=5
+building.buildingorientation=2
+building.max=2
+building.icon=steelaxe
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Xylokopos Spiti
+initial.priority=1000
+initial.male=lumberman_byzantine
+initial.female=wife_byzantine
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+
+upgrade4.priority=85
+upgrade4.pathlevel=1
+
