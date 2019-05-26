@@ -65,3 +65,37 @@ https://minecraft.curseforge.com/projects/botania)
 
 [Botanic Additions](
 https://minecraft.curseforge.com/projects/botanic-additions)
+
+[Chameleon]
+
+[Chunk-Pregenerator]
+
+[Classic Bars]
+
+[Clipboard]
+
+[Clumps]
+
+[CodeChicken Lib]
+
+[Comforts]
+
+[Controlling]
+
+[Cooking for Blockheads]
+
+[Crafting Tweaks]
+
+[Ding]
+
+[Dirt2Path]
+
+[DiscordChat]
+
+[Enchantment Descriptions]
+
+[Extreme Reactors]
+
+[Fancy Block Particles]
+
+
