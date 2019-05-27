@@ -28,7 +28,7 @@ load_all_languages=false
 
 //Afficher le texte au démarrage; Afficher la version de Millénaire et le statut de la Quête de la Création au démarrage.
 //Display Starting Text; Display the Millénaire version and Creation Quest status at startup.
-display_start=true
+display_start=false
 
 //Afficher le nom des villageois; Afficher le nom, le métier et la tâche en cours au dessus des villageois.
 //Display Villager Names; Display names, occupations and current task above villagers' heads.
