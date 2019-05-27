@@ -5,7 +5,6 @@
 https://minecraft.curseforge.com/projects/advanced-rocketry)
 
 [AE2 Stuff](
-)
 
 [AI Improvements](
 https://minecraft.curseforge.com/projects/ai-improvements)
@@ -20,7 +19,7 @@ https://minecraft.curseforge.com/projects/animus)
 https://minecraft.curseforge.com/projects/applecore)
 
 [Applied Energistics 2](
-)
+
 
 [ArchitectureCraft](
 https://minecraft.curseforge.com/projects/architecturecraft-elytradev)
@@ -53,7 +52,7 @@ https://minecraft.curseforge.com/projects/bedrock-b-gone)
 https://minecraft.curseforge.com/projects/betterfps)
 
 [BiblioCraft](
-)
+
 
 [Binnie's Mods](
 https://minecraft.curseforge.com/projects/binnies-mods)
