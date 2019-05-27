@@ -74,44 +74,60 @@ https://minecraft.curseforge.com/projects/botanic-additions)
 https://minecraft.curseforge.com/projects/chameleon)
 
 [Chisel](
+https://minecraft.curseforge.com/projects/chisel)
 
 [Chisels & Bits](
+https://minecraft.curseforge.com/projects/chisels-bits)
 
 [Chunk-Pregenerator](
+https://minecraft.curseforge.com/projects/chunkpregenerator)
 
 [Classic Bars](
+https://minecraft.curseforge.com/projects/classic-bars)
 
 [Clumps](
+https://minecraft.curseforge.com/projects/clumps)
 
 [CodeChicken Lib](
+https://minecraft.curseforge.com/projects/codechicken-lib-1-8)
 
 [Comforts](
+https://minecraft.curseforge.com/projects/comforts)
 
 [ConnectedTexturesMod](
+https://minecraft.curseforge.com/projects/ctm)
 
 [Controlling](
+https://minecraft.curseforge.com/projects/controlling)
 
 [Cooking for Blockheads](
+https://minecraft.curseforge.com/projects/cooking-for-blockheads)
 
 [Crafting Tweaks](
+https://minecraft.curseforge.com/projects/crafting-tweaks)
 
 [Decocraft2](
+https://minecraft.curseforge.com/projects/decocraft2)
 
 [Deep Mob Learning](
+https://minecraft.curseforge.com/projects/deep-mob-learning)
 
 [Deep Mob Learning - Blood Magic Addon](
+https://minecraft.curseforge.com/projects/deep-mob-learning-blood-magic-addon)
 
 [Ding](
-
-[Dirt2Path](
+https://minecraft.curseforge.com/projects/ding)
 
 [DiscordChat](
+https://minecraft.curseforge.com/projects/discordchat)
 
 [Enchantment Descriptions](
+https://minecraft.curseforge.com/projects/enchantment-descriptions)
 
 [ExtraCells2](
+https://minecraft.curseforge.com/projects/extracells2)
 
 [Extreme Reactors](
-
+https://minecraft.curseforge.com/projects/extreme-reactors)
 
 
