@@ -51,14 +51,6 @@
       "minGroupCount": 1,
       "maxGroupCount": 1,
       "spawn": true
-    },
-    {
-      "entity": "iceandfire:deathworm",
-      "creatureType": "creature",
-      "weight": 2,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
     }
   ],
   "features": []
