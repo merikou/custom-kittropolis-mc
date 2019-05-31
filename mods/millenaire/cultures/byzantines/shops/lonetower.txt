@@ -1,2 +1,0 @@
-
-buys=winefancy,bread

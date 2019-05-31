@@ -1,3 +1,0 @@
-sells=mutton,cooked_mutton,leather,feta
-buys=wheat
-deliverto=mutton
